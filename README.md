@@ -22,11 +22,11 @@ Un programa el cual calcula las combinaciones de n en r, valores los cuales son 
    ```
 3. Compile el código:
    ```sh
-   g++ .cpp -o sorting_time -std=c++20
+   g++ r_combinaciones.cpp -o r_combinaciones -std=c++20
    ```
 4. Ejecute el código
    ```sh
-   ./
+   ./r_combinaciones
    ```
 
 ### Explicación del algoritmo 🧑🏻‍💻
